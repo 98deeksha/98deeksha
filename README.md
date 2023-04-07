@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me Twitter - https://twitter.com/ABSaarc 
-- LinkedIn - https://www.linkedin.com/in/deeksha-shekar-5422aa15a/ 
+- LinkedIn - https://www.linkedin.com/in/deeksha-s-/
 - Gmail - deeksha.somashekar@gmail.com 
 
 <!---
