@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deeksha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJs and upskilling myself with backend technologies like Nodejs, Mongodb
 - 📫 How to reach me Twitter - https://twitter.com/ABSaarc 
 - LinkedIn - https://www.linkedin.com/in/deeksha-s-/
 - Gmail - deeksha.somashekar@gmail.com 
